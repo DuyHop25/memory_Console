@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.4"
+  }
+}
